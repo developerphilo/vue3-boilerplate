@@ -32,13 +32,7 @@ export default {
   width: 100%;
   height: 100vh;
   position: relative;
-  background: linear-gradient(
-    to right,
-    rgb(185, 29, 102) 0%,
-    rgb(185, 29, 102) 50%,
-    rgb(212, 42, 93) 50%,
-    rgb(212, 42, 93) 100%
-  );
+  background: rgb(214, 212, 212);
   overflow: hidden;
 }
 img {

@@ -35,7 +35,7 @@ p {
   padding: 3% 0;
   font-size: 18px;
   letter-spacing: 1px;
-  line-height: 1em;
+  line-height: 2em;
 }
 a {
   color: #42b983;
