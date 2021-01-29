@@ -1,12 +1,12 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Welcome to Vue3 boilerplate" />
+  <HelloWorld msg="Vue3 Boilerplate" />
 </template>
 
 <script>
 import { defineAsyncComponent } from "vue";
 const HelloWorld = defineAsyncComponent(() =>
-  import(/* webpackChunkName: “HelloWorld” */ "@/components/HelloWorld")
+  import(/*webpackChunkName: "Helloworld"*/ "@/components/HelloWorld")
 );
 
 export default {
