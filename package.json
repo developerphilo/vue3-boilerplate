@@ -1,11 +1,22 @@
 {
   "name": "vue3-boilerplate",
   "version": "0.1.0",
+  "description": "a vue3-boilerplate to get you started with the vue resources you need",
+  "keywords": [
+    "vue",
+    "vue 3",
+    "boilerplate",
+    "js"
+  ],
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/developerphilo/vue3-boilerplate"
   },
   "dependencies": {
     "axios": "^0.21.1",
@@ -41,5 +52,6 @@
     "> 1%",
     "last 2 versions",
     "not dead"
-  ]
+  ],
+  "license": "MIT"
 }
