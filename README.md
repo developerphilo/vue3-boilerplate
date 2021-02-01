@@ -1,4 +1,4 @@
-[![npm version](https://badge.fury.io/js/vuejs-medium-editor.svg)](https://github.com/developerphilo/vue3-boilerplate)  [![npm version](https://badgen.net/npm/dt/v3-boilerplate)](https://github.com/developerphilo/vue3-boilerplate) [![npm version](https://badgen.net/npm/license/lodash)](https://github.com/developerphilo/vue3-boilerplate)
+[![npm version](https://badge.fury.io/js/vuejs-medium-editor.svg)](https://github.com/developerphilo/vue3-boilerplate)[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![npm version](https://badgen.net/npm/license/lodash)](https://github.com/developerphilo/vue3-boilerplate)
 <div align="center">
   <h1>Vue 3 Boilerplate</h1>
   </div>
