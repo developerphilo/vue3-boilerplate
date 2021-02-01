@@ -1,5 +1,5 @@
 {
-  "name": "vue3-boilerplate",
+  "name": "v3-boilerplate",
   "version": "0.1.0",
   "description": "a vue3-boilerplate to get you started with the vue resources you need",
   "keywords": [
@@ -8,7 +8,6 @@
     "boilerplate",
     "js"
   ],
-  "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",

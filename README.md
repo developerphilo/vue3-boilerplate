@@ -1,6 +1,21 @@
 # vue3 boilerplate
 
 
+## Usage
+
+### Installation
+
+
+```
+npm i v3-boilerplate
+``` 
+OR 
+
+```
+yarn add v3-boilerplate
+```
+
+
 
 
 ## Project setup
@@ -23,5 +38,21 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://v3.vuejs.org/).
+## About Me 
+
+<p align="center"><img src="https://twitter.com/amjohnphilip/photo" width="150">
+
+<a target="_blank" href="https://twitter.com/amjohnphilip">John Philip</a>
+</p>
+
+
+## License
+
+[MIT](LICENSE)
+
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](#)
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](#)
+
+
+Happy coding
