@@ -1,7 +1,11 @@
-# vue3 boilerplate
+
+<div align="center">
+  <h1>Vue 3 Boilerplate</h1>
+  </div>
 
 
 ## Usage
+
 
 ### Installation
 
