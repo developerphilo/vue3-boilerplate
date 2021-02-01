@@ -44,7 +44,6 @@ npm run lint
 
 ## About Me 
 
-<p align="center"><img src="https://twitter.com/amjohnphilip/photo" width="150">
 
 <a target="_blank" href="https://twitter.com/amjohnphilip">John Philip</a>
 </p>
