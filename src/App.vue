@@ -1,19 +1,12 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Vue3 Boilerplate" />
+  <router-view></router-view>
 </template>
 
 <script>
-import { defineAsyncComponent } from "vue";
-const HelloWorld = defineAsyncComponent(() =>
-  import(/*webpackChunkName: "Helloworld"*/ "@/components/HelloWorld")
-);
-
 export default {
   name: "App",
-  components: {
-    HelloWorld,
-  },
+  components: {},
 };
 </script>
 
@@ -24,9 +17,15 @@ export default {
   box-sizing: border-box;
 }
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-family: "Rubik", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  letter-spacing: 1px;
+  line-height: 1.5;
+  font-size: calc(10px + 0.33vw);
+  scroll-behavior: smooth;
   text-align: center;
   color: #394a5c;
   width: 100%;
@@ -36,6 +35,6 @@ export default {
   overflow: hidden;
 }
 img {
-  padding-top: 10%;
+  padding-top: 8%;
 }
 </style>
